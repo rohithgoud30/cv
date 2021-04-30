@@ -9,6 +9,8 @@ hr{
     border-width: 5px;
     border-color: grey;
 }
-table,th,td{
+.EQT,.EQTH,.EQTD{
     border:1px solid black;
+    text-align: center;
 }
+
