@@ -9,6 +9,6 @@ hr{
     border-width: 5px;
     border-color: grey;
 }
-table{
+table,th,td{
     border:1px solid black;
 }
