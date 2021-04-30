@@ -1,0 +1,16 @@
+body{
+    background-color: #eaf6f6;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    width:5%;
+    border-width: 5px;
+    border-color: grey;
+}
+.EQT,.EQTH,.EQTD{
+    border:1px solid black;
+    text-align: center;
+}
+
