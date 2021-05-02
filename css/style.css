@@ -13,4 +13,6 @@ hr{
     border:1px solid black;
     text-align: center;
 }
-
+h1,h3{
+    color:#66bfbf;
+}
