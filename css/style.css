@@ -18,5 +18,5 @@ h1,h3{
 }
 
 abbr[title]{
-    text-decoration:none;
+    text-decoration:underline;
 }
